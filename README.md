@@ -1,9 +1,7 @@
 <h2 align="center">
 		CryptPy
 </h2>
-<h3 align="center">
-	Python Message Encrypter/Decrypter.
-</h3>
+<p> Python Message Encrypter/Decrypter. </p>
 
 ---
 
