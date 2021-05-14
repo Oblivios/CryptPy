@@ -1,6 +1,6 @@
-<h2 align="center">
+<h3 align="center">
 		CryptPy - Python Message Encrypter/Decrypter.
-</h2>
+</h3>
 
 ---
 
