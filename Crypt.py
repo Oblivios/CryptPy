@@ -32,7 +32,7 @@ choice = input("Generate Key ? (Y/N) ").lower() #Y if nobody has the key, N if y
 if choice == "y":
     key = Fernet.generate_key()
 elif choice == "n":
-    key = input("Copy and Paste the key here:").encode()
+    key = input("Copy and Paste the key here: ").encode()
 print("Key: "+key.decode())
 f = Fernet(key)
 while True:
