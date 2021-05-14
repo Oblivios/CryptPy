@@ -1,16 +1,16 @@
 <h3 align="center">
-  CryptPy
+  			CryptPy
 	Python Message Encrypter/Decrypter.
 </h3>
 
 ---
 
-##Overview
+## Overview
 
 - CryptPy can encrypt any messages using the python module "Cryptography". If you have the right key, it can also decrypt the messages.
 - CryptPy can be useful for text chat applications such as Discord, where you could give your key to your friend, and talk on a server/group but by encrypting your messages which would make it only readable by the people who has the key.
 
-##Installing
+## Installing
 
 You will first need to have Python installed and to make sure that have added Python to PATH.
 Python download link:
@@ -36,7 +36,7 @@ To run CryptPy, open your CMD the same way as above and type "Crypt.py", then pr
 If everything's good and installed, running CryptPy should look like that:
 <img src="https://gyazo.com/ca088ef9a7a462b9ff8481c9c4634144">
 
-##Usage
+## Usage
 
 If you wanna generate a key, type "Y", it'll generate you a key that you will have to give to your friend.
 Then your friend would have to type "N" and paste the key.
