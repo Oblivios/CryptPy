@@ -3,6 +3,8 @@
 	Python Message Encrypter/Decrypter.
 </h3>
 
+---
+
 ##Overview
 
 - CryptPy can encrypt any messages using the python module "Cryptography". If you have the right key, it can also decrypt the messages.
