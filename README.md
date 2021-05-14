@@ -11,7 +11,10 @@
 
 ## Installing
 
-You will first need to have Python installed and to make sure that have added Python to PATH.
+You will first need to have Python installed and to make sure that you have added Python to PATH.
+
+<img src="https://gyazo.com/e33ebaec93e235e7440600ec52b6f8a2">7
+
 Python download link:
 
 `https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe`
