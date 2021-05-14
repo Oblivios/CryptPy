@@ -13,7 +13,7 @@
 
 You will first need to have Python installed and to make sure that you have added Python to PATH.
 
-<img src="https://gyazo.com/e33ebaec93e235e7440600ec52b6f8a2">7
+<img src="https://gyazo.com/e33ebaec93e235e7440600ec52b6f8a2.png">
 
 Python download link:
 
