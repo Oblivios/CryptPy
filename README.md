@@ -45,26 +45,16 @@ If everything's good and installed, running CryptPy should look like that:
 
 ## Usage
 
-If you wanna generate a key, type "Y", it'll generate you a key that you will have to give to your friend.
+After an update, CryptPy nearly works alone. 
 
-Then your friend would have to type "N" and paste the key.
-
-From here, you can choose if you want to encrypt the message (by typing "E") or decrypt a message (by typing "D").
-
-To encrypt, you type "E" and then you write what you want to encrypt, somewhere (for example on a Discord chat) and then, you can Ctrl+A your message or highlight it with your mouse like this:
+All you have to do is highlight your message with Ctrl+A or with your mouse like this:
 
 <img src="https://gyazo.com/312a0a51af1fd1e03babf09b24d05961.gif">
 
 Then, when your message is highlighted, you have to press Ctrl+C two times (to copy the message), it should do something like that:
 
-<img src="https://gyazo.com/f8da797901179ccaf0c8d9e0f1cbe2a4.gif">
+<img src="https://gyazo.com/420f79ae9bbd85301eb6abfdb954348c.gif">
 
-You can now send the encrypted message on the chat !
-
-Now, to decrypt a message, you must have the right key, otherwise it won't work.
-
-You simply have to type "D" and paste the encrypted message:
-
-<img src="https://gyazo.com/0455d23d02045a9172190f6750010919.gif">
+<img src="https://gyazo.com/3fe857eaf961b2d0381d9dd76e3ed6c1.gif">
 
 Now that you know how to use CryptPy, have fun and keep your messages secret !
