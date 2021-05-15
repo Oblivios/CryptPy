@@ -37,6 +37,8 @@ Once you have a commant prompt open to the correct path, you should type the fol
 
 To run CryptPy, open your CMD the same way as above and type "Crypt.py", then press enter:
 
+If you don't understand how to do this, you can also double click on "Crypt.py" to run it, but it won't work on some PC's.
+
 <img src="https://gyazo.com/4de4b644cc1a21397f242a589365b6bd.gif">
 
 If everything's good and installed, running CryptPy should look like that:
