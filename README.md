@@ -47,7 +47,13 @@ If everything's good and installed, running CryptPy should look like that:
 
 ## Usage
 
-After an update, CryptPy nearly works alone. 
+After an update, CryptPy nearly works alone.
+
+First, type "Y" to generate a key, or type "N" to enter a key.
+
+Then, you have many options (some bugs may occur):
+
+Pressing [F2] --> Automatic Encryption and Decryption.
 
 All you have to do is highlight your message with Ctrl+A or with your mouse like this:
 
@@ -58,5 +64,19 @@ Then, when your message is highlighted, you have to press Ctrl+C two times (to c
 <img src="https://gyazo.com/420f79ae9bbd85301eb6abfdb954348c.gif">
 
 <img src="https://gyazo.com/3fe857eaf961b2d0381d9dd76e3ed6c1.gif">
+
+Pressing [F3] --> Pause the program.
+
+Let you do anything on your computer without having effect on the program.
+
+Press F3 again to unpause the program.
+
+Pressing [F4] --> Let you choose between generating another key or entering a new key.
+
+Works as in the start of the program, just type "Y" to generate a key, or type "N" to enter a key.
+
+Pressing [F5] --> Let you quit the program by typing any key (except "C").
+
+You can also cancel this, by typing "C".
 
 Now that you know how to use CryptPy, have fun and keep your messages secret !
