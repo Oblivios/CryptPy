@@ -4,6 +4,7 @@ try:
     import keyboard
     from os import system
     import pyperclip as pc
+    import time
 except ImportError:
     input("Press enter to start installing... ")
     system("py -m pip install -r requirements.txt")
@@ -36,11 +37,11 @@ elif choice == "n":
 print("Key: "+key.decode())
 f = Fernet(key)
 while True:
-        if keyboard.is_pressed("f2"):
-            print("Waiting for your copy...")
-            keyboard.wait("ctrl+c")
-            keyboard.wait("ctrl+c")
-            record = pc.paste()
+    if keyboard.is_pressed("f2"):
+        print("Waiting for your copy...")
+        keyboard.wait("ctrl+c")
+        keyboard.wait("ctrl+c")
+        record = pc.paste()
         if record.startswith("gAAAAA")==True:
             try:
                 decrypted = f.decrypt(record.encode())
