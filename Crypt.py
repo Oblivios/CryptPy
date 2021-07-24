@@ -37,10 +37,10 @@ print("Key: "+key.decode())
 f = Fernet(key)
 while True:
         if keyboard.is_pressed("f2"):
-        print("Waiting for your copy...")
-        keyboard.wait("ctrl+c")
-        keyboard.wait("ctrl+c")
-        record = pc.paste()
+            print("Waiting for your copy...")
+            keyboard.wait("ctrl+c")
+            keyboard.wait("ctrl+c")
+            record = pc.paste()
         if record.startswith("gAAAAA")==True:
             try:
                 decrypted = f.decrypt(record.encode())
