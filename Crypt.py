@@ -1,8 +1,9 @@
+from os import system
+
 try:
     from colorama import Fore, init
     from cryptography.fernet import Fernet
     import keyboard
-    from os import system
     import pyperclip as pc
     import time
 except ImportError:
